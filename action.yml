@@ -1,0 +1,9 @@
+name: Serverless
+
+description: 'This Action wraps the Serverless Framework to enable common Serverless commands.'
+
+inputs:
+  args:
+    description: args to pass to serverless
+    required: true
+
